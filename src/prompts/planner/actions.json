@@ -1,0 +1,6 @@
+[
+    {
+        "name": "getAvalancheForecast",
+        "description": "Get the avalanche forecast for Salt Lake City, UT forecast area."
+    }
+]
